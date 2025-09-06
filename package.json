@@ -1,0 +1,27 @@
+{
+  "name": "running-budget",
+  "version": "1.0.0",
+  "description": "A simple budgeting app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesRobertHugginsNgo/running-budget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JamesRobertHugginsNgo/running-budget/issues"
+  },
+  "homepage": "https://github.com/JamesRobertHugginsNgo/running-budget#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2"
+  }
+}
